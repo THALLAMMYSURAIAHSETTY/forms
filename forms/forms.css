@@ -1,0 +1,10 @@
+*{
+    font-family: 'Trebuchet MS';
+    color: rgb(0, 0, 0);
+}
+body{
+    background-image:url(https://www.xmple.com/wallpaper/pink-gradient-blue-linear-15360x8640-c2-ff69b4-000080-a-90-f-14.svg);
+  height:max-content;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
